@@ -8,7 +8,6 @@ export interface Post {
   createdAt: string;
 }
 
-// Mảng bài viết mẫu
 let posts: Post[] = [
   {
     id: 1,
